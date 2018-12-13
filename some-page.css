@@ -1,0 +1,20 @@
+  p {
+    color: red;
+    }
+    
+    .someClass {
+      color:blue;
+    }
+    
+    #someId {
+      color:mistyrose; !important;
+    }
+    
+    .anotherClass{
+      color:blanchedalmond;
+    }
+    
+    span {
+      color:green;
+      font-size:12px;
+    }
