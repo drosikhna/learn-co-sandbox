@@ -3,4 +3,5 @@
 // <span>Orange</span>
 
 let ourSpan = document.createElement("span")
-ourSpan.innerText = 
+ourSpan.innerText = "red"
+// <span>Red</span>
