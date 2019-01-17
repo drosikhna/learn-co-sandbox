@@ -12,3 +12,7 @@ ourDiv.appendChild(ourSpan)
 
 createAColorSpan()
 createAColorSpan()
+
+if (color === "red"){
+  ourSpan.style.width = "50%"
+}
