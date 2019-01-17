@@ -11,3 +11,4 @@ ourDiv.appendChild(ourSpan)
 }
 
 createAColorSpan()
+createAColorSpan()
