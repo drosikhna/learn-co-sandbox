@@ -3,5 +3,8 @@
 // <span>Orange</span>
 
 let ourSpan = document.createElement("span")
+
 ourSpan.innerText = "red"
 // <span>Red</span>
+
+ourSpan.style.backgroundColor = "red"
