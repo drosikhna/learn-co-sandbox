@@ -9,3 +9,5 @@ ourSpan.style.backgroundColor = "red"
 const ourDiv = document.querySelector ("#colors")
 ourDiv.appendChild(ourSpan)
 }
+
+createAColorSpan()
