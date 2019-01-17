@@ -8,3 +8,5 @@ ourSpan.innerText = "red"
 // <span>Red</span>
 
 ourSpan.style.backgroundColor = "red"
+
+const ourDiv = document.querySelector ("#colors")
