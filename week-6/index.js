@@ -20,3 +20,13 @@ if (color === "red"){
 } else {
   ourSpan.style.width === "150px"
 }
+
+switch (color) {
+  case "red": {
+    ourSpan.style.width = "50%"
+    break
+  }
+  default: {
+    ourSpan.style.width = "150px"
+  }
+}
