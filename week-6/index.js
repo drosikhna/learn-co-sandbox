@@ -2,4 +2,5 @@
 // <span style = "background-color: red,">
 // <span>Orange</span>
 
-document.createElement("h1")
+let ourSpan = document.createElement("span")
+ourSpan.innerText = 
