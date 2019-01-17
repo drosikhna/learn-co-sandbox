@@ -17,4 +17,6 @@ if (color === "red"){
   ourSpan.style.width = "50%"
 } else if (color === "blue") {
   ourSpan.style.width = "250px"
+} else {
+  ourSpan.style.width === "150px"
 }
